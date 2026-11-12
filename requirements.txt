@@ -1,7 +1,7 @@
-flask
-streamlit
+fastapi
+uvicorn
 sqlalchemy
-psycopg2-binary
+pydantic
+streamlit
+requests
 python-dotenv
-pandas
-openpyxl
